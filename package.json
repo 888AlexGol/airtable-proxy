@@ -2,15 +2,7 @@
 {
   "name": "airtable-proxy",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.3.2"
   }
