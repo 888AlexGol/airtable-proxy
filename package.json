@@ -5,7 +5,8 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "dev": "vercel dev"
+    "dev": "vercel dev",
+    "build": "node index.js"
   },
   "keywords": [],
   "author": "",
